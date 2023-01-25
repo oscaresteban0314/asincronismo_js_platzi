@@ -18,5 +18,8 @@
   "bugs": {
     "url": "https://github.com/oscaresteban0314/asincronismo_js_platzi/issues"
   },
-  "homepage": "https://github.com/oscaresteban0314/asincronismo_js_platzi#readme"
+  "homepage": "https://github.com/oscaresteban0314/asincronismo_js_platzi#readme",
+  "dependencies": {
+    "xmlhttprequest": "^1.8.0"
+  }
 }
