@@ -20,6 +20,8 @@
   },
   "homepage": "https://github.com/oscaresteban0314/asincronismo_js_platzi#readme",
   "dependencies": {
+    "node-fetch": "^3.3.0",
     "xmlhttprequest": "^1.8.0"
-  }
+  },
+  "type": "module"
 }
